@@ -205,7 +205,6 @@
             <p>
               Please indicate whether the sentence was OK or whether you think
               it contained an error. You can also indicate that you're not sure.
-              Remember, please disregard capitalization.
             </p>
             <MultipleChoiceInput
               :response.sync="$magpie.measurements.response"
