@@ -112,6 +112,7 @@
         <button
           @click="
             $magpie.addExpData({ SubjectId: $magpie.measurements.SubjectID });
+            $magpie.addExpData({ ListId: listId });
             $magpie.nextScreen();
           "
         >
@@ -399,6 +400,7 @@ export default {
       },
       userResponse: "",
       showImages: showImages,
+      listId: listId,
     };
   },
   computed: {
