@@ -12,7 +12,7 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 10,1.Control,103,The driver,1,bumped,long,the bright red,.,inequality between the groups,The driver bumped the bright red inequality between the groups.,implausible,inequality between the groups.
 11,2.1,114,Why did you,2,shove,long,your really nice,?,beard for no reason,Why did you shove your really nice beard for no reason?,implausible,beard for no reason?
 12,2.2,125,The,2,chicks,long,were unexpectedly,.,hatched on Monday,The chicks were unexpectedly hatched on Monday.,plausible,hatched on Monday.
-13,2.Control,136,I watched as a ,2,tube,long,was quite masterfully,.,humored by my mother,I watched as a  tube was quite masterfully humored by my mother.,implausible,humored by my mother.
+13,2.Control,136,I watched as a,2,tube,long,was quite masterfully,.,humored by my mother,I watched as a tube was quite masterfully humored by my mother.,implausible,humored by my mother.
 14,Control.1,147,The doctor sees patients with,Control,insurance,long,or other kinds of,.,illnesses affecting them,The doctor sees patients with insurance or other kinds of illnesses affecting them.,implausible,illnesses affecting them.
 15,Control.2,158,With two strong,Control,arms,long,this very powerful,.,team can qualify for the finals,With two strong arms this very powerful team can qualify for the finals.,implausible,team can qualify for the finals.
 16,Typo1.1,169,These,Typo1,bklls,long,definitely appear to be,.,"counterfeit, unfortunately","These bklls definitely appear to be counterfeit, unfortunately.",implausible,"counterfeit, unfortunately."
@@ -22,13 +22,13 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 20,1.Control,203,This,1,wind,long,is most definitely,.,emotional towards him,This wind is most definitely emotional towards him.,implausible,emotional towards him.
 21,2.1,214,Thank you for,2,making,long,such good,.,care of her yesterday,Thank you for making such good care of her yesterday.,implausible,care of her yesterday.
 22,2.2,225,After being,2,sealed,long,carefully in the small,.,"jar, the jam was sold","After being sealed carefully in the small jar, the jam was sold.",plausible,"jar, the jam was sold."
-23,2.Control,236,Because of all the,2,threats,long,my dog has become very ,.,translucent and aligned,Because of all the threats my dog has become very  translucent and aligned.,implausible,translucent and aligned.
+23,2.Control,236,Because of all the,2,threats,long,my dog has become very,.,translucent and aligned,Because of all the threats my dog has become very translucent and aligned.,implausible,translucent and aligned.
 24,Control.1,247,The,Control,sky,long,contained lots of,.,data and statistics,The sky contained lots of data and statistics.,implausible,data and statistics.
 25,Control.2,258,These,Control,emails,long,had been talked about and,.,removed by the cleaners,These emails had been talked about and removed by the cleaners.,implausible,removed by the cleaners.
 26,Typo1.1,269,She knew how to,Typo1,unntie,long,every single one of the,.,knots for the sailboat,She knew how to unntie every single one of the knots for the sailboat.,implausible,knots for the sailboat.
 27,Typo2.2,280,Are you able to,Typo2,resserve,long,both of these,?,rooms in the hotel,Are you able to resserve both of these rooms in the hotel?,implausible,rooms in the hotel?
 28,1.1,281,The documents were,1,stored,long,by the intern in,.,filing cabinets,The documents were stored by the intern in filing cabinets.,plausible,filing cabinets.
-29,1.2,292,He was ,1,tired,long,a long while after his,.,arrest and indictment,He was  tired a long while after his arrest and indictment.,implausible,arrest and indictment.
+29,1.2,292,He was,1,tired,long,a long while after his,.,arrest and indictment,He was tired a long while after his arrest and indictment.,implausible,arrest and indictment.
 30,1.Control,303,My friend is,1,carving,long,a massive,.,dread and anxiety,My friend is carving a massive dread and anxiety.,implausible,dread and anxiety.
 31,2.1,314,She,2,fired,long,every single one of the,.,chicken nuggets,She fired every single one of the chicken nuggets.,implausible,chicken nuggets.
 32,2.2,325,The,2,trail,long,that was located in the,.,woods attracted hikers and campers,The trail that was located in the woods attracted hikers and campers.,plausible,woods attracted hikers and campers.

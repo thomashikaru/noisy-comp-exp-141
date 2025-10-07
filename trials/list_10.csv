@@ -12,7 +12,7 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 10,Typo2.2,110,The driver,Typo2,prmped,long,the bright red,.,tank full of gas,The driver prmped the bright red tank full of gas.,implausible,tank full of gas.
 11,1.1,111,Why did you,1,shave,long,your really nice,?,beard for no reason,Why did you shave your really nice beard for no reason?,plausible,beard for no reason?
 12,1.2,122,The,1,checks,long,were unexpectedly,.,hatched on Monday,The checks were unexpectedly hatched on Monday.,implausible,hatched on Monday.
-13,1.Control,133,I watched as a ,1,tune,long,was quite masterfully,.,humored by my mother,I watched as a  tune was quite masterfully humored by my mother.,implausible,humored by my mother.
+13,1.Control,133,I watched as a,1,tune,long,was quite masterfully,.,humored by my mother,I watched as a tune was quite masterfully humored by my mother.,implausible,humored by my mother.
 14,2.1,144,The doctor sees patients with,2,metal,long,or other kinds of,.,illnesses affecting them,The doctor sees patients with metal or other kinds of illnesses affecting them.,implausible,illnesses affecting them.
 15,2.2,155,With two strong,2,wins,long,this very powerful,.,team can qualify for the finals,With two strong wins this very powerful team can qualify for the finals.,plausible,team can qualify for the finals.
 16,2.Control,166,These,2,hills,long,definitely appear to be,.,"spicy, unfortunately","These hills definitely appear to be spicy, unfortunately.",implausible,"spicy, unfortunately."
@@ -22,13 +22,13 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 20,Typo2.2,210,This,Typo2,wjne,long,is most definitely,.,delicious with steak,This wjne is most definitely delicious with steak.,implausible,delicious with steak.
 21,1.1,211,Thank you for,1,taking,long,such good,.,care of her yesterday,Thank you for taking such good care of her yesterday.,plausible,care of her yesterday.
 22,1.2,222,After being,1,seated,long,carefully in the small,.,"jar, the jam was sold","After being seated carefully in the small jar, the jam was sold.",implausible,"jar, the jam was sold."
-23,1.Control,233,Because of all the,1,treats,long,my dog has become very ,.,translucent and aligned,Because of all the treats my dog has become very  translucent and aligned.,implausible,translucent and aligned.
+23,1.Control,233,Because of all the,1,treats,long,my dog has become very,.,translucent and aligned,Because of all the treats my dog has become very translucent and aligned.,implausible,translucent and aligned.
 24,2.1,244,The,2,cart,long,contained lots of,.,data and statistics,The cart contained lots of data and statistics.,implausible,data and statistics.
 25,2.2,255,These,2,stains,long,had been talked about and,.,removed by the cleaners,These stains had been talked about and removed by the cleaners.,plausible,removed by the cleaners.
 26,2.Control,266,She knew how to,2,unite,long,every single one of the,.,viruses in the winter,She knew how to unite every single one of the viruses in the winter.,implausible,viruses in the winter.
 27,Control.1,277,Are you able to,Control,swim,long,both of these,?,transactions over the phone,Are you able to swim both of these transactions over the phone?,implausible,transactions over the phone?
 28,Control.2,288,The documents were,Control,skipped,long,by the intern in,.,alphabetical order,The documents were skipped by the intern in alphabetical order.,implausible,alphabetical order.
-29,Typo1.1,299,He was ,Typo1,tirxd,long,a long while after his,.,shift ended,He was  tirxd a long while after his shift ended.,implausible,shift ended.
+29,Typo1.1,299,He was,Typo1,tirxd,long,a long while after his,.,shift ended,He was tirxd a long while after his shift ended.,implausible,shift ended.
 30,Typo2.2,310,My friend is,Typo2,crsving,long,a massive,.,cheeseburger and fries,My friend is crsving a massive cheeseburger and fries.,implausible,cheeseburger and fries.
 31,1.1,311,She,1,fried,long,every single one of the,.,chicken nuggets,She fried every single one of the chicken nuggets.,plausible,chicken nuggets.
 32,1.2,322,The,1,trial,long,that was located in the,.,woods attracted hikers and campers,The trial that was located in the woods attracted hikers and campers.,implausible,woods attracted hikers and campers.

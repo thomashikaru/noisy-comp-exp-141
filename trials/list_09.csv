@@ -12,7 +12,7 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 10,Typo1.1,109,The driver,Typo1,brmped,long,the bright red,.,traffic cone with his car,The driver brmped the bright red traffic cone with his car.,implausible,traffic cone with his car.
 11,Typo2.2,120,Why did you,Typo2,shovve,long,your really nice,?,teammate for no reason,Why did you shovve your really nice teammate for no reason?,implausible,teammate for no reason?
 12,1.1,121,The,1,checks,long,were unexpectedly,.,cashed on Monday,The checks were unexpectedly cashed on Monday.,plausible,cashed on Monday.
-13,1.2,132,I watched as a ,1,tune,long,was quite masterfully,.,installed by the plumber,I watched as a  tune was quite masterfully installed by the plumber.,implausible,installed by the plumber.
+13,1.2,132,I watched as a,1,tune,long,was quite masterfully,.,installed by the plumber,I watched as a tune was quite masterfully installed by the plumber.,implausible,installed by the plumber.
 14,1.Control,143,The doctor sees patients with,1,mental,long,or other kinds of,.,carpets on the floor,The doctor sees patients with mental or other kinds of carpets on the floor.,implausible,carpets on the floor.
 15,2.1,154,With two strong,2,wins,long,this very powerful,.,bird can fly for hours,With two strong wins this very powerful bird can fly for hours.,implausible,bird can fly for hours.
 16,2.2,165,These,2,hills,long,definitely appear to be,.,"steep, unfortunately","These hills definitely appear to be steep, unfortunately.",plausible,"steep, unfortunately."
@@ -22,13 +22,13 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 20,Typo1.1,209,This,Typo1,wjnd,long,is most definitely,.,blowing from the west,This wjnd is most definitely blowing from the west.,implausible,blowing from the west.
 21,Typo2.2,220,Thank you for,Typo2,mrking,long,such good,.,pancakes for breakfast,Thank you for mrking such good pancakes for breakfast.,implausible,pancakes for breakfast.
 22,1.1,221,After being,1,seated,long,carefully in the small,.,"theater, the audience fell silent","After being seated carefully in the small theater, the audience fell silent.",plausible,"theater, the audience fell silent."
-23,1.2,232,Because of all the,1,treats,long,my dog has become very ,.,scared and timid,Because of all the treats my dog has become very  scared and timid.,implausible,scared and timid.
+23,1.2,232,Because of all the,1,treats,long,my dog has become very,.,scared and timid,Because of all the treats my dog has become very scared and timid.,implausible,scared and timid.
 24,1.Control,243,The,1,chart,long,contained lots of,.,promises from my father,The chart contained lots of promises from my father.,implausible,promises from my father.
 25,2.1,254,These,2,stains,long,had been talked about and,.,venerated by the worshippers,These stains had been talked about and venerated by the worshippers.,implausible,venerated by the worshippers.
 26,2.2,265,She knew how to,2,unite,long,every single one of the,.,community members,She knew how to unite every single one of the community members.,plausible,community members.
 27,2.Control,276,Are you able to,2,reserve,long,both of these,?,pigeons on the sidewalk,Are you able to reserve both of these pigeons on the sidewalk?,implausible,pigeons on the sidewalk?
 28,Control.1,287,The documents were,Control,skipped,long,by the intern in,.,filing cabinets,The documents were skipped by the intern in filing cabinets.,implausible,filing cabinets.
-29,Control.2,298,He was ,Control,born,long,a long while after his,.,arrest and indictment,He was  born a long while after his arrest and indictment.,implausible,arrest and indictment.
+29,Control.2,298,He was,Control,born,long,a long while after his,.,arrest and indictment,He was born a long while after his arrest and indictment.,implausible,arrest and indictment.
 30,Typo1.1,309,My friend is,Typo1,csrving,long,a massive,.,marble statue,My friend is csrving a massive marble statue.,implausible,marble statue.
 31,Typo2.2,320,She,Typo2,ffired,long,every single one of the,.,employees and consultants,She ffired every single one of the employees and consultants.,implausible,employees and consultants.
 32,1.1,321,The,1,trial,long,that was located in the,.,courthouse attracted media attention,The trial that was located in the courthouse attracted media attention.,plausible,courthouse attracted media attention.

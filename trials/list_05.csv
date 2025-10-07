@@ -12,7 +12,7 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 10,2.2,105,The driver,2,pumped,long,the bright red,.,tank full of gas,The driver pumped the bright red tank full of gas.,plausible,tank full of gas.
 11,2.Control,116,Why did you,2,shove,long,your really nice,?,attitude towards them,Why did you shove your really nice attitude towards them?,implausible,attitude towards them?
 12,Control.1,127,The,Control,carpets,long,were unexpectedly,.,cashed on Monday,The carpets were unexpectedly cashed on Monday.,implausible,cashed on Monday.
-13,Control.2,138,I watched as a ,Control,food,long,was quite masterfully,.,installed by the plumber,I watched as a  food was quite masterfully installed by the plumber.,implausible,installed by the plumber.
+13,Control.2,138,I watched as a,Control,food,long,was quite masterfully,.,installed by the plumber,I watched as a food was quite masterfully installed by the plumber.,implausible,installed by the plumber.
 14,Typo1.1,149,The doctor sees patients with,Typo1,metnal,long,or other kinds of,.,illnesses affecting them,The doctor sees patients with metnal or other kinds of illnesses affecting them.,implausible,illnesses affecting them.
 15,Typo2.2,160,With two strong,Typo2,wjns,long,this very powerful,.,team can qualify for the finals,With two strong wjns this very powerful team can qualify for the finals.,implausible,team can qualify for the finals.
 16,1.1,161,These,1,bills,long,definitely appear to be,.,"counterfeit, unfortunately","These bills definitely appear to be counterfeit, unfortunately.",plausible,"counterfeit, unfortunately."
@@ -22,13 +22,13 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 20,2.2,205,This,2,wine,long,is most definitely,.,delicious with steak,This wine is most definitely delicious with steak.,plausible,delicious with steak.
 21,2.Control,216,Thank you for,2,making,long,such good,.,monkeys in the jungle,Thank you for making such good monkeys in the jungle.,implausible,monkeys in the jungle.
 22,Control.1,227,After being,Control,drawn,long,carefully in the small,.,"theater, the audience fell silent","After being drawn carefully in the small theater, the audience fell silent.",implausible,"theater, the audience fell silent."
-23,Control.2,238,Because of all the,Control,exercise,long,my dog has become very ,.,scared and timid,Because of all the exercise my dog has become very  scared and timid.,implausible,scared and timid.
+23,Control.2,238,Because of all the,Control,exercise,long,my dog has become very,.,scared and timid,Because of all the exercise my dog has become very scared and timid.,implausible,scared and timid.
 24,Typo1.1,249,The,Typo1,chatr,long,contained lots of,.,data and statistics,The chatr contained lots of data and statistics.,implausible,data and statistics.
 25,Typo2.2,260,These,Typo2,stians,long,had been talked about and,.,removed by the cleaners,These stians had been talked about and removed by the cleaners.,implausible,removed by the cleaners.
 26,1.1,261,She knew how to,1,untie,long,every single one of the,.,knots for the sailboat,She knew how to untie every single one of the knots for the sailboat.,plausible,knots for the sailboat.
 27,1.2,272,Are you able to,1,reverse,long,both of these,?,rooms in the hotel,Are you able to reverse both of these rooms in the hotel?,implausible,rooms in the hotel?
 28,1.Control,283,The documents were,1,stored,long,by the intern in,.,friendship and romance,The documents were stored by the intern in friendship and romance.,implausible,friendship and romance.
-29,2.1,294,He was ,2,tried,long,a long while after his,.,shift ended,He was  tried a long while after his shift ended.,implausible,shift ended.
+29,2.1,294,He was,2,tried,long,a long while after his,.,shift ended,He was tried a long while after his shift ended.,implausible,shift ended.
 30,2.2,305,My friend is,2,craving,long,a massive,.,cheeseburger and fries,My friend is craving a massive cheeseburger and fries.,plausible,cheeseburger and fries.
 31,2.Control,316,She,2,fired,long,every single one of the,.,mathematics and physics,She fired every single one of the mathematics and physics.,implausible,mathematics and physics.
 32,Control.1,327,The,Control,cake,long,that was located in the,.,courthouse attracted media attention,The cake that was located in the courthouse attracted media attention.,implausible,courthouse attracted media attention.

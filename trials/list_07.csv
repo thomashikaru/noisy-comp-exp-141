@@ -12,7 +12,7 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 10,Control.1,107,The driver,Control,praised,long,the bright red,.,traffic cone with his car,The driver praised the bright red traffic cone with his car.,implausible,traffic cone with his car.
 11,Control.2,118,Why did you,Control,drink,long,your really nice,?,teammate for no reason,Why did you drink your really nice teammate for no reason?,implausible,teammate for no reason?
 12,Typo1.1,129,The,Typo1,chekcs,long,were unexpectedly,.,cashed on Monday,The chekcs were unexpectedly cashed on Monday.,implausible,cashed on Monday.
-13,Typo2.2,140,I watched as a ,Typo2,tiube,long,was quite masterfully,.,installed by the plumber,I watched as a  tiube was quite masterfully installed by the plumber.,implausible,installed by the plumber.
+13,Typo2.2,140,I watched as a,Typo2,tiube,long,was quite masterfully,.,installed by the plumber,I watched as a tiube was quite masterfully installed by the plumber.,implausible,installed by the plumber.
 14,1.1,141,The doctor sees patients with,1,mental,long,or other kinds of,.,illnesses affecting them,The doctor sees patients with mental or other kinds of illnesses affecting them.,plausible,illnesses affecting them.
 15,1.2,152,With two strong,1,wings,long,this very powerful,.,team can qualify for the finals,With two strong wings this very powerful team can qualify for the finals.,implausible,team can qualify for the finals.
 16,1.Control,163,These,1,bills,long,definitely appear to be,.,"spicy, unfortunately","These bills definitely appear to be spicy, unfortunately.",implausible,"spicy, unfortunately."
@@ -22,13 +22,13 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 20,Control.1,207,This,Control,desk,long,is most definitely,.,blowing from the west,This desk is most definitely blowing from the west.,implausible,blowing from the west.
 21,Control.2,218,Thank you for,Control,being,long,such good,.,pancakes for breakfast,Thank you for being such good pancakes for breakfast.,implausible,pancakes for breakfast.
 22,Typo1.1,229,After being,Typo1,seateed,long,carefully in the small,.,"theater, the audience fell silent","After being seateed carefully in the small theater, the audience fell silent.",implausible,"theater, the audience fell silent."
-23,Typo2.2,240,Because of all the,Typo2,thraets,long,my dog has become very ,.,scared and timid,Because of all the thraets my dog has become very  scared and timid.,implausible,scared and timid.
+23,Typo2.2,240,Because of all the,Typo2,thraets,long,my dog has become very,.,scared and timid,Because of all the thraets my dog has become very scared and timid.,implausible,scared and timid.
 24,1.1,241,The,1,chart,long,contained lots of,.,data and statistics,The chart contained lots of data and statistics.,plausible,data and statistics.
 25,1.2,252,These,1,saints,long,had been talked about and,.,removed by the cleaners,These saints had been talked about and removed by the cleaners.,implausible,removed by the cleaners.
 26,1.Control,263,She knew how to,1,untie,long,every single one of the,.,viruses in the winter,She knew how to untie every single one of the viruses in the winter.,implausible,viruses in the winter.
 27,2.1,274,Are you able to,2,reserve,long,both of these,?,transactions over the phone,Are you able to reserve both of these transactions over the phone?,implausible,transactions over the phone?
 28,2.2,285,The documents were,2,sorted,long,by the intern in,.,alphabetical order,The documents were sorted by the intern in alphabetical order.,plausible,alphabetical order.
-29,2.Control,296,He was ,2,tried,long,a long while after his,.,steel was forged,He was  tried a long while after his steel was forged.,implausible,steel was forged.
+29,2.Control,296,He was,2,tried,long,a long while after his,.,steel was forged,He was tried a long while after his steel was forged.,implausible,steel was forged.
 30,Control.1,307,My friend is,Control,reading,long,a massive,.,marble statue,My friend is reading a massive marble statue.,implausible,marble statue.
 31,Control.2,318,She,Control,sang,long,every single one of the,.,employees and consultants,She sang every single one of the employees and consultants.,implausible,employees and consultants.
 32,Typo1.1,329,The,Typo1,trjal,long,that was located in the,.,courthouse attracted media attention,The trjal that was located in the courthouse attracted media attention.,implausible,courthouse attracted media attention.

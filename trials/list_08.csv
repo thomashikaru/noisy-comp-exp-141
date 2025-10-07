@@ -12,7 +12,7 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 10,Control.2,108,The driver,Control,praised,long,the bright red,.,tank full of gas,The driver praised the bright red tank full of gas.,implausible,tank full of gas.
 11,Typo1.1,119,Why did you,Typo1,shavve,long,your really nice,?,beard for no reason,Why did you shavve your really nice beard for no reason?,implausible,beard for no reason?
 12,Typo2.2,130,The,Typo2,chikcs,long,were unexpectedly,.,hatched on Monday,The chikcs were unexpectedly hatched on Monday.,implausible,hatched on Monday.
-13,1.1,131,I watched as a ,1,tune,long,was quite masterfully,.,played by the pianist,I watched as a  tune was quite masterfully played by the pianist.,plausible,played by the pianist.
+13,1.1,131,I watched as a,1,tune,long,was quite masterfully,.,played by the pianist,I watched as a tune was quite masterfully played by the pianist.,plausible,played by the pianist.
 14,1.2,142,The doctor sees patients with,1,mental,long,or other kinds of,.,fragments in their bodies,The doctor sees patients with mental or other kinds of fragments in their bodies.,implausible,fragments in their bodies.
 15,1.Control,153,With two strong,1,wings,long,this very powerful,.,leaf is green,With two strong wings this very powerful leaf is green.,implausible,leaf is green.
 16,2.1,164,These,2,hills,long,definitely appear to be,.,"counterfeit, unfortunately","These hills definitely appear to be counterfeit, unfortunately.",implausible,"counterfeit, unfortunately."
@@ -22,13 +22,13 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 20,Control.2,208,This,Control,desk,long,is most definitely,.,delicious with steak,This desk is most definitely delicious with steak.,implausible,delicious with steak.
 21,Typo1.1,219,Thank you for,Typo1,trking,long,such good,.,care of her yesterday,Thank you for trking such good care of her yesterday.,implausible,care of her yesterday.
 22,Typo2.2,230,After being,Typo2,sealeed,long,carefully in the small,.,"jar, the jam was sold","After being sealeed carefully in the small jar, the jam was sold.",implausible,"jar, the jam was sold."
-23,1.1,231,Because of all the,1,treats,long,my dog has become very ,.,overweight and unhealthy,Because of all the treats my dog has become very  overweight and unhealthy.,plausible,overweight and unhealthy.
+23,1.1,231,Because of all the,1,treats,long,my dog has become very,.,overweight and unhealthy,Because of all the treats my dog has become very overweight and unhealthy.,plausible,overweight and unhealthy.
 24,1.2,242,The,1,chart,long,contained lots of,.,fruits and vegetables,The chart contained lots of fruits and vegetables.,implausible,fruits and vegetables.
 25,1.Control,253,These,1,saints,long,had been talked about and,.,toasted at the wedding,These saints had been talked about and toasted at the wedding.,implausible,toasted at the wedding.
 26,2.1,264,She knew how to,2,unite,long,every single one of the,.,knots for the sailboat,She knew how to unite every single one of the knots for the sailboat.,implausible,knots for the sailboat.
 27,2.2,275,Are you able to,2,reserve,long,both of these,?,rooms in the hotel,Are you able to reserve both of these rooms in the hotel?,plausible,rooms in the hotel?
 28,2.Control,286,The documents were,2,sorted,long,by the intern in,.,friendship and romance,The documents were sorted by the intern in friendship and romance.,implausible,friendship and romance.
-29,Control.1,297,He was ,Control,born,long,a long while after his,.,shift ended,He was  born a long while after his shift ended.,implausible,shift ended.
+29,Control.1,297,He was,Control,born,long,a long while after his,.,shift ended,He was born a long while after his shift ended.,implausible,shift ended.
 30,Control.2,308,My friend is,Control,reading,long,a massive,.,cheeseburger and fries,My friend is reading a massive cheeseburger and fries.,implausible,cheeseburger and fries.
 31,Typo1.1,319,She,Typo1,ffried,long,every single one of the,.,chicken nuggets,She ffried every single one of the chicken nuggets.,implausible,chicken nuggets.
 32,Typo2.2,330,The,Typo2,trajl,long,that was located in the,.,woods attracted hikers and campers,The trajl that was located in the woods attracted hikers and campers.,implausible,woods attracted hikers and campers.

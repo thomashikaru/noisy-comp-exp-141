@@ -12,7 +12,7 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 10,2.Control,106,The driver,2,pumped,long,the bright red,.,inequality between the groups,The driver pumped the bright red inequality between the groups.,implausible,inequality between the groups.
 11,Control.1,117,Why did you,Control,drink,long,your really nice,?,beard for no reason,Why did you drink your really nice beard for no reason?,implausible,beard for no reason?
 12,Control.2,128,The,Control,carpets,long,were unexpectedly,.,hatched on Monday,The carpets were unexpectedly hatched on Monday.,implausible,hatched on Monday.
-13,Typo1.1,139,I watched as a ,Typo1,tiune,long,was quite masterfully,.,played by the pianist,I watched as a  tiune was quite masterfully played by the pianist.,implausible,played by the pianist.
+13,Typo1.1,139,I watched as a,Typo1,tiune,long,was quite masterfully,.,played by the pianist,I watched as a tiune was quite masterfully played by the pianist.,implausible,played by the pianist.
 14,Typo2.2,150,The doctor sees patients with,Typo2,meatl,long,or other kinds of,.,fragments in their bodies,The doctor sees patients with meatl or other kinds of fragments in their bodies.,implausible,fragments in their bodies.
 15,1.1,151,With two strong,1,wings,long,this very powerful,.,bird can fly for hours,With two strong wings this very powerful bird can fly for hours.,plausible,bird can fly for hours.
 16,1.2,162,These,1,bills,long,definitely appear to be,.,"steep, unfortunately","These bills definitely appear to be steep, unfortunately.",implausible,"steep, unfortunately."
@@ -22,13 +22,13 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 20,2.Control,206,This,2,wine,long,is most definitely,.,emotional towards him,This wine is most definitely emotional towards him.,implausible,emotional towards him.
 21,Control.1,217,Thank you for,Control,being,long,such good,.,care of her yesterday,Thank you for being such good care of her yesterday.,implausible,care of her yesterday.
 22,Control.2,228,After being,Control,drawn,long,carefully in the small,.,"jar, the jam was sold","After being drawn carefully in the small jar, the jam was sold.",implausible,"jar, the jam was sold."
-23,Typo1.1,239,Because of all the,Typo1,traets,long,my dog has become very ,.,overweight and unhealthy,Because of all the traets my dog has become very  overweight and unhealthy.,implausible,overweight and unhealthy.
+23,Typo1.1,239,Because of all the,Typo1,traets,long,my dog has become very,.,overweight and unhealthy,Because of all the traets my dog has become very overweight and unhealthy.,implausible,overweight and unhealthy.
 24,Typo2.2,250,The,Typo2,catr,long,contained lots of,.,fruits and vegetables,The catr contained lots of fruits and vegetables.,implausible,fruits and vegetables.
 25,1.1,251,These,1,saints,long,had been talked about and,.,venerated by the worshippers,These saints had been talked about and venerated by the worshippers.,plausible,venerated by the worshippers.
 26,1.2,262,She knew how to,1,untie,long,every single one of the,.,community members,She knew how to untie every single one of the community members.,implausible,community members.
 27,1.Control,273,Are you able to,1,reverse,long,both of these,?,pigeons on the sidewalk,Are you able to reverse both of these pigeons on the sidewalk?,implausible,pigeons on the sidewalk?
 28,2.1,284,The documents were,2,sorted,long,by the intern in,.,filing cabinets,The documents were sorted by the intern in filing cabinets.,implausible,filing cabinets.
-29,2.2,295,He was ,2,tried,long,a long while after his,.,arrest and indictment,He was  tried a long while after his arrest and indictment.,plausible,arrest and indictment.
+29,2.2,295,He was,2,tried,long,a long while after his,.,arrest and indictment,He was tried a long while after his arrest and indictment.,plausible,arrest and indictment.
 30,2.Control,306,My friend is,2,craving,long,a massive,.,dread and anxiety,My friend is craving a massive dread and anxiety.,implausible,dread and anxiety.
 31,Control.1,317,She,Control,sang,long,every single one of the,.,chicken nuggets,She sang every single one of the chicken nuggets.,implausible,chicken nuggets.
 32,Control.2,328,The,Control,cake,long,that was located in the,.,woods attracted hikers and campers,The cake that was located in the woods attracted hikers and campers.,implausible,woods attracted hikers and campers.

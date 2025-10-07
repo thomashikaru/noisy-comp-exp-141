@@ -12,7 +12,7 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 10,1.1,101,The driver,1,bumped,long,the bright red,.,traffic cone with his car,The driver bumped the bright red traffic cone with his car.,plausible,traffic cone with his car.
 11,1.2,112,Why did you,1,shave,long,your really nice,?,teammate for no reason,Why did you shave your really nice teammate for no reason?,implausible,teammate for no reason?
 12,1.Control,123,The,1,checks,long,were unexpectedly,.,spoken at the university,The checks were unexpectedly spoken at the university.,implausible,spoken at the university.
-13,2.1,134,I watched as a ,2,tube,long,was quite masterfully,.,played by the pianist,I watched as a  tube was quite masterfully played by the pianist.,implausible,played by the pianist.
+13,2.1,134,I watched as a,2,tube,long,was quite masterfully,.,played by the pianist,I watched as a tube was quite masterfully played by the pianist.,implausible,played by the pianist.
 14,2.2,145,The doctor sees patients with,2,metal,long,or other kinds of,.,fragments in their bodies,The doctor sees patients with metal or other kinds of fragments in their bodies.,plausible,fragments in their bodies.
 15,2.Control,156,With two strong,2,wins,long,this very powerful,.,leaf is green,With two strong wins this very powerful leaf is green.,implausible,leaf is green.
 16,Control.1,167,These,Control,dogs,long,definitely appear to be,.,"counterfeit, unfortunately","These dogs definitely appear to be counterfeit, unfortunately.",implausible,"counterfeit, unfortunately."
@@ -22,13 +22,13 @@ Item,Label,ID,Preamble,CriticalCond,CriticalWord,InterveningCond,Intervening,Fin
 20,1.1,201,This,1,wind,long,is most definitely,.,blowing from the west,This wind is most definitely blowing from the west.,plausible,blowing from the west.
 21,1.2,212,Thank you for,1,taking,long,such good,.,pancakes for breakfast,Thank you for taking such good pancakes for breakfast.,implausible,pancakes for breakfast.
 22,1.Control,223,After being,1,seated,long,carefully in the small,.,"illness, the patient recovered","After being seated carefully in the small illness, the patient recovered.",implausible,"illness, the patient recovered."
-23,2.1,234,Because of all the,2,threats,long,my dog has become very ,.,overweight and unhealthy,Because of all the threats my dog has become very  overweight and unhealthy.,implausible,overweight and unhealthy.
+23,2.1,234,Because of all the,2,threats,long,my dog has become very,.,overweight and unhealthy,Because of all the threats my dog has become very overweight and unhealthy.,implausible,overweight and unhealthy.
 24,2.2,245,The,2,cart,long,contained lots of,.,fruits and vegetables,The cart contained lots of fruits and vegetables.,plausible,fruits and vegetables.
 25,2.Control,256,These,2,stains,long,had been talked about and,.,toasted at the wedding,These stains had been talked about and toasted at the wedding.,implausible,toasted at the wedding.
 26,Control.1,267,She knew how to,Control,sing,long,every single one of the,.,knots for the sailboat,She knew how to sing every single one of the knots for the sailboat.,implausible,knots for the sailboat.
 27,Control.2,278,Are you able to,Control,swim,long,both of these,?,rooms in the hotel,Are you able to swim both of these rooms in the hotel?,implausible,rooms in the hotel?
 28,Typo1.1,289,The documents were,Typo1,stjred,long,by the intern in,.,filing cabinets,The documents were stjred by the intern in filing cabinets.,implausible,filing cabinets.
-29,Typo2.2,300,He was ,Typo2,trixd,long,a long while after his,.,arrest and indictment,He was  trixd a long while after his arrest and indictment.,implausible,arrest and indictment.
+29,Typo2.2,300,He was,Typo2,trixd,long,a long while after his,.,arrest and indictment,He was trixd a long while after his arrest and indictment.,implausible,arrest and indictment.
 30,1.1,301,My friend is,1,carving,long,a massive,.,marble statue,My friend is carving a massive marble statue.,plausible,marble statue.
 31,1.2,312,She,1,fried,long,every single one of the,.,employees and consultants,She fried every single one of the employees and consultants.,implausible,employees and consultants.
 32,1.Control,323,The,1,trial,long,that was located in the,.,conversation was friendly,The trial that was located in the conversation was friendly.,implausible,conversation was friendly.
