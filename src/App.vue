@@ -133,13 +133,12 @@
     <InstructionScreen :title="'Instructions'">
       <p>
         As you read, you may notice that some of the sentences contain mistakes.
-        An error could be a grammar error, typo, missing/extra words, etc. Please
-        don't worry about punctuation or capitalization, which are not the focus of this study.
+        An error could be a grammar error, typo, missing/extra words, or a sentence that just doesn't make any sense.
       </p>
       <p>
         After reading each sentence, you will be asked whether the sentence
         contained any mistakes. Indicate your choice by pressing the appropriate
-        button.
+        button. There is an option for "Not sure" if you're not sure about the sentence.
       </p>
       <p>Press the button to start the study.</p>
     </InstructionScreen>
